@@ -11,6 +11,9 @@ import { RegisterComponent } from './componentes/register/register.component';
 import { PrivatePageComponent } from './componentes/private-page/private-page.component';
 import { NotFoundPageComponent } from './componentes/not-found-page/not-found-page.component';
 import { HomePageComponent } from './componentes/home-page/home-page.component';
+import { BreakfastComponent } from './componentes/breakfast/breakfast.component';
+import { DinnerComponent } from './componentes/dinner/dinner.component';
+import { PedidosComponent } from './componentes/pedidos/pedidos.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +23,10 @@ import { HomePageComponent } from './componentes/home-page/home-page.component';
     RegisterComponent,
     PrivatePageComponent,
     NotFoundPageComponent,
-    HomePageComponent
+    HomePageComponent,
+    BreakfastComponent,
+    DinnerComponent,
+    PedidosComponent
   ],
   imports: [
     BrowserModule,
