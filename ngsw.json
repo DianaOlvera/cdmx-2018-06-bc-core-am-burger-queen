@@ -1,19 +1,19 @@
 {
   "configVersion": 1,
-  "index": "/index.html",
+  "index": "https://DianaOlvera.github.io/cdmx-2018-06-bc-core-am-burger-queen/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/main.49726f0bd995336185d1.js",
-        "/polyfills.c6871e56cb80756a5498.js",
-        "/runtime.ec2944dd8b20ec099bf3.js",
-        "/scripts.ee7fed27c36eaa5fa8a9.js",
-        "/styles.fc5fd880f43c87672b98.css"
+        "https://DianaOlvera.github.io/cdmx-2018-06-bc-core-am-burger-queen/favicon.ico",
+        "https://DianaOlvera.github.io/cdmx-2018-06-bc-core-am-burger-queen/index.html",
+        "https://DianaOlvera.github.io/cdmx-2018-06-bc-core-am-burger-queen/main.282a41c2d257426e976a.js",
+        "https://DianaOlvera.github.io/cdmx-2018-06-bc-core-am-burger-queen/polyfills.c6871e56cb80756a5498.js",
+        "https://DianaOlvera.github.io/cdmx-2018-06-bc-core-am-burger-queen/runtime.ec2944dd8b20ec099bf3.js",
+        "https://DianaOlvera.github.io/cdmx-2018-06-bc-core-am-burger-queen/scripts.6fa82f3198e14021f08c.js",
+        "https://DianaOlvera.github.io/cdmx-2018-06-bc-core-am-burger-queen/styles.146fcb71abe1f29b0315.css"
       ],
       "patterns": []
     },
@@ -22,35 +22,35 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "/assets/icons/icon-128x128.png",
-        "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-152x152.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-384x384.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "https://DianaOlvera.github.io/cdmx-2018-06-bc-core-am-burger-queen/assets/icons/icon-128x128.png",
+        "https://DianaOlvera.github.io/cdmx-2018-06-bc-core-am-burger-queen/assets/icons/icon-144x144.png",
+        "https://DianaOlvera.github.io/cdmx-2018-06-bc-core-am-burger-queen/assets/icons/icon-152x152.png",
+        "https://DianaOlvera.github.io/cdmx-2018-06-bc-core-am-burger-queen/assets/icons/icon-192x192.png",
+        "https://DianaOlvera.github.io/cdmx-2018-06-bc-core-am-burger-queen/assets/icons/icon-384x384.png",
+        "https://DianaOlvera.github.io/cdmx-2018-06-bc-core-am-burger-queen/assets/icons/icon-512x512.png",
+        "https://DianaOlvera.github.io/cdmx-2018-06-bc-core-am-burger-queen/assets/icons/icon-72x72.png",
+        "https://DianaOlvera.github.io/cdmx-2018-06-bc-core-am-burger-queen/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "6bb2000ab80ab091e4abca6433a9494d0483390a",
-    "/main.49726f0bd995336185d1.js": "f4da2dd41cb7569e234fedef4b470b977a37b59a",
-    "/polyfills.c6871e56cb80756a5498.js": "ce68d153e9b9b6d26b625069c0ee99ae09c6f255",
-    "/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "/scripts.ee7fed27c36eaa5fa8a9.js": "f6f283629e7606428f6239a4b89bd4b42cc2f0ab",
-    "/styles.fc5fd880f43c87672b98.css": "8667ffbd3d9bf9ea8975958d50dc77003c18af9f"
+    "https://DianaOlvera.github.io/cdmx-2018-06-bc-core-am-burger-queen/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://DianaOlvera.github.io/cdmx-2018-06-bc-core-am-burger-queen/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://DianaOlvera.github.io/cdmx-2018-06-bc-core-am-burger-queen/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://DianaOlvera.github.io/cdmx-2018-06-bc-core-am-burger-queen/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://DianaOlvera.github.io/cdmx-2018-06-bc-core-am-burger-queen/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://DianaOlvera.github.io/cdmx-2018-06-bc-core-am-burger-queen/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://DianaOlvera.github.io/cdmx-2018-06-bc-core-am-burger-queen/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://DianaOlvera.github.io/cdmx-2018-06-bc-core-am-burger-queen/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://DianaOlvera.github.io/cdmx-2018-06-bc-core-am-burger-queen/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://DianaOlvera.github.io/cdmx-2018-06-bc-core-am-burger-queen/index.html": "1a7eca5f48ae5dbddaf5ced0a5053d43ffdf0464",
+    "https://DianaOlvera.github.io/cdmx-2018-06-bc-core-am-burger-queen/main.282a41c2d257426e976a.js": "7755a705415f7eadcbf3ed65d0b791d5c391f1ee",
+    "https://DianaOlvera.github.io/cdmx-2018-06-bc-core-am-burger-queen/polyfills.c6871e56cb80756a5498.js": "ce68d153e9b9b6d26b625069c0ee99ae09c6f255",
+    "https://DianaOlvera.github.io/cdmx-2018-06-bc-core-am-burger-queen/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://DianaOlvera.github.io/cdmx-2018-06-bc-core-am-burger-queen/scripts.6fa82f3198e14021f08c.js": "e9ac23f8e0d8497771e86dccf385d35176fa6466",
+    "https://DianaOlvera.github.io/cdmx-2018-06-bc-core-am-burger-queen/styles.146fcb71abe1f29b0315.css": "bcde8b90a156439f6481d79cedf7ec9ac3674c86"
   },
   "navigationUrls": [
     {
